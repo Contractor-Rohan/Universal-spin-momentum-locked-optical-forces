@@ -1,2 +1,37 @@
-# Universal-spin-momentum-locked-optical-forces
-Evanescent electromagnetic waves possess spin-momentum locking, where the direction of propa-gation (momentum) is locked to the inherent polarization of the wave (transverse spin). We studythe optical forces arising from this universal phenomenon and show that the fundamental origin ofrecently reported non-trivial optical chiral forces is spin-momentum locking. For evanescentwaves, we show that the direction of energy flow, the direction of decay, and the direction of spinfollow a right hand rule for three different cases of total internal reflection, surface plasmon polari-tons, andHE11mode of an optical fiber. Furthermore, we explain how the recently reported phe-nomena of lateral optical force on chiral and achiral particles are caused by the transverse spin ofthe evanescent field and the spin-momentum locking phenomenon. Finally, we propose an experi-ment to identify the unique lateral forces arising from the transverse spin in the optical fiber andpoint to fundamental differences of the spin density from the well-known orbital angular momen-tum of light. Our work presents a unified view on spin-momentum locking and how it affectsoptical forces on chiral and achiral particles
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/Contractor-Rohan/Universal-spin-momentum-locked-optical-forces/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Contractor-Rohan/Universal-spin-momentum-locked-optical-forces/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

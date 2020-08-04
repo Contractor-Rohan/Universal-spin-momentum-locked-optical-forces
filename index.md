@@ -42,47 +42,47 @@ Evanescent electromagnetic waves possess spin-momentum locking, where the direct
 ### References
 
 <p><i>
-<sup>1</sup>K. Y. Bliokh, A. Y. Bekshaev, and F. Nori, “Extraordinary momentumand spin in evanescent waves,”Nat. Commun.5, 3300 (2014).
+<sup>1</sup>K. Y. Bliokh, A. Y. Bekshaev, and F. Nori, “Extraordinary momentum and spin in evanescent waves,”Nat. Commun.5, 3300 (2014).
 <br><br>
 <sup>2</sup>K. Y. Bliokh and F. Nori, “Transverse spin of a surface polariton,”Phys.Rev. A85, 061801 (2012).
 <br><br>
-<sup>3</sup>T. Van Mechelen and Z. Jacob, “Universal spin-momentum locking ofevanescent waves,”Optica3, 118 (2016).
+<sup>3</sup>T. Van Mechelen and Z. Jacob, “Universal spin-momentum locking of evanescent waves,”Optica3, 118 (2016).
 <br><br>
-<sup>4</sup>F. L. Kien and A. Rauschenbeutel, “Negative azimuthal force ofnanofiber-guided  light  on  a  particle,”Phys.  Rev.  A88,  063845(2013).
+<sup>4</sup>F. L. Kien and A. Rauschenbeutel, “Negative azimuthal force of nanofiber-guided  light  on  a  particle,”Phys.  Rev.  A88,  063845(2013).
 <br><br>
-<sup>5</sup>K. Y. Bliokh, D. Smirnova, and F. Nori, “Quantum spin Hall effect oflight,”Science348, 1448–1451 (2015).
+<sup>5</sup>K. Y. Bliokh, D. Smirnova, and F. Nori, “Quantum spin Hall effect of light,”Science348, 1448–1451 (2015).
 <br><br>
-<sup>6</sup>A. Aiello, N. Lindlein, C. Marquardt, and G. Leuchs, “Transverse angularmomentum and geometric spin hall effect of light,”Phys. Rev. Lett.103,100401 (2009).
+<sup>6</sup>A. Aiello, N. Lindlein, C. Marquardt, and G. Leuchs, “Transverse angular momentum and geometric spin hall effect of light,”Phys. Rev. Lett.103,100401 (2009).
 <br><br>
-<sup>7</sup>F. J. Rodrguez-Fortuo, G. Marino, P. Ginzburg, D. OConnor, A. Martnez,G. A. Wurtz, and A. V. Zayats, “Near-field interference for the unidirec-tional excitation of electromagnetic guided modes,”Science340, 328–330(2013).
+<sup>7</sup>F. J. Rodrguez-Fortuo, G. Marino, P. Ginzburg, D. OConnor, A. Martnez,G. A. Wurtz, and A. V. Zayats, “Near-field interference for the unidirectional excitation of electromagnetic guided modes,”Science340, 328–330(2013).
 <br><br>
-<sup>8</sup>P. V. Kapitanova, P. Ginzburg, F. J. Rodrguez-Fortuo, D. S. Filonov, P.M. Voroshilov, P. A. Belov, A. N. Poddubny, Y. S. Kivshar, G. A. Wurtz,and A. V. Zayats, “Photonic spin Hall effect in hyperbolic metamaterialsfor  polarization-controlled  routing  of  subwavelength  modes,”Nat.Commun.5, 3226 (2014).
+<sup>8</sup>P. V. Kapitanova, P. Ginzburg, F. J. Rodrguez-Fortuo, D. S. Filonov, P.M. Voroshilov, P. A. Belov, A. N. Poddubny, Y. S. Kivshar, G. A. Wurtz,and A. V. Zayats, “Photonic spin Hall effect in hyperbolic metamaterials for  polarization-controlled  routing  of  subwavelength  modes,”Nat.Commun.5, 3226 (2014).
 <br><br>
-<sup>9</sup>R.  Mitsch,  C.  Sayrin,  B.  Albrecht,  P.  Schneeweiss,  and  A.Rauschenbeutel, “Quantum state-controlled directional spontaneous emis-sion of photons into a nanophotonic waveguide,”Nat. Commun.5, 5713(2014).
+<sup>9</sup>R.  Mitsch,  C.  Sayrin,  B.  Albrecht,  P.  Schneeweiss,  and  A.Rauschenbeutel, “Quantum state-controlled directional spontaneous emission of photons into a nanophotonic waveguide,”Nat. Commun.5, 5713(2014).
 <br><br>
 <sup>10</sup>J. Petersen, J. Volz, and A. Rauschenbeutel, “Chiral nanophotonic wave-guide interface based on spin-orbit interaction of light,”Science346,67–71 (2014).
 <br><br>
-<sup>11</sup>B. le Feber, N. Rotenberg, and L. Kuipers, “Nanophotonic control of cir-cular dipole emission,”Nat. Commun.6, 6695 (2015).
+<sup>11</sup>B. le Feber, N. Rotenberg, and L. Kuipers, “Nanophotonic control of circular dipole emission,”Nat. Commun.6, 6695 (2015).
 <br><br>
 <sup>12</sup>I. Sllner, S. Mahmoodian, S. L. Hansen, L. Midolo, A. Javadi, G. Kiransk,T. Pregnolato, H. El-Ella, E. H. Lee, J. D. Song, S. Stobbe, and P. Lodahl,“Deterministic photonemitter coupling in chiral photonic circuits,”Nat.Nanotechnol.10, 775–778 (2015).
 <br><br>
-<sup>13</sup>A. Young, A. Thijssen, D. Beggs, P. Androvitsaneas, L. Kuipers, J. Rarity,S. Hughes, and R. Oulton, “Polarization engineering in photonic crystalwaveguides for spin-photon entanglers,”Phys. Rev. Lett.115, 153901(2015).
+<sup>13</sup>A. Young, A. Thijssen, D. Beggs, P. Androvitsaneas, L. Kuipers, J. Rarity,S. Hughes, and R. Oulton, “Polarization engineering in photonic crystal waveguides for spin-photon entanglers,”Phys. Rev. Lett.115, 153901(2015).
 <br><br>
 <sup>14</sup>A. Aiello and P. Banzer, “Transverse spin of light for all wavefields,” e-printarXiv:1502.05350.
 <br><br>
-<sup>15</sup>S. Scheel, S. Y. Buhmann, C. Clausen, and P. Schneeweiss, “Directionalspontaneous emission and lateral Casimir-Polder force on an atom close toa nanofiber,”Phys. Rev. A92, 043819 (2015).
+<sup>15</sup>S. Scheel, S. Y. Buhmann, C. Clausen, and P. Schneeweiss, “Directional spontaneous emission and lateral Casimir-Polder force on an atom close to a nanofiber,”Phys. Rev. A92, 043819 (2015).
 <br><br>
 <sup>16</sup>M. H. Alizadeh and B. M. Reinhard, “Transverse chiral optical forcesby chiral surface plasmon polaritons,”ACS Photonics2, 1780–1788(2015).
 <br><br>
 <sup>17</sup>A. Ashkin, “Acceleration and trapping of particles by radiation pressure,”Phys. Rev. Lett.24, 156–159 (1970).
 <br><br>
-<sup>18</sup>A. Ashkin, J. M. Dziedzic, J. E. Bjorkholm, and S. Chu, “Observation of asingle-beam gradient force optical trap for dielectric particles,”Opt. Lett.11, 288 (1986).
+<sup>18</sup>A. Ashkin, J. M. Dziedzic, J. E. Bjorkholm, and S. Chu, “Observation of a single-beam gradient force optical trap for dielectric particles,”Opt. Lett.11, 288 (1986).
 <br><br>
-<sup>19</sup>S. B. Wang and C. T. Chan, “Lateral optical force on chiral particles neara surface,”Nat. Commun.5, 3307 (2014).
+<sup>19</sup>S. B. Wang and C. T. Chan, “Lateral optical force on chiral particles near a surface,”Nat. Commun.5, 3307 (2014).
 <br><br>
 <sup>20</sup>A. Hayat, J. P. B. Mueller, and F. Capasso, “Lateral chirality-sorting optical forces,”Proc. Natl. Acad. Sci.112, 13190–13194(2015).
 <br><br>
-<sup>21</sup>R. P. Cameron, S. M. Barnett, and A. M. Yao, “Discriminatory opticalforce for chiral molecules,”New J. Phys.16(1), 013020 (2014).
+<sup>21</sup>R. P. Cameron, S. M. Barnett, and A. M. Yao, “Discriminatory optical force for chiral molecules,”New J. Phys.16(1), 013020 (2014).
 <br><br>
 <sup>22</sup>F. J. Rodrguez-Fortuo, N. Engheta, A. <sup>2</sup>MMartnez, and A. V. Zayats, “Lateralforces on circularly polarizable particles near a surface,”Nat. Commun.6,8799 (2015).
 <br><br>
@@ -90,7 +90,7 @@ Evanescent electromagnetic waves possess spin-momentum locking, where the direct
 <br><br>
 <sup>24</sup>M. Neugebauer, T. Bauer, A. Aiello, and P. Banzer, “Measuring thetransverse spin density of light,”Phys.Rev.Lett.114, 063901(2015).
 <br><br>
-<sup>25</sup>See supplementary material athttp://dx.doi.org/10.1063/1.4941539for fullexpressions and explanations.
+<sup>25</sup>See supplementary material at http://dx.doi.org/10.1063/1.4941539 for fullexpressions and explanations.
 <br><br>
 <sup>26</sup>T. Setl, A. Shevchenko, M. Kaivola, and A. T. Friberg, “Degree of polar-ization for optical near fields,”Phys. Rev. E66, 016615 (2002).  
 <br><br>

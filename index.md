@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Evanescent electromagnetic waves possess spin-momentum locking, where the direction of propa-gation (momentum) is locked to the inherent polarization of the wave (transverse spin). We studythe optical forces arising from this universal phenomenon and show that the fundamental origin ofrecently reported non-trivial optical chiral forces is spin-momentum locking. For evanescentwaves, we show that the direction of energy flow, the direction of decay, and the direction of spinfollow a right hand rule for three different cases of total internal reflection, surface plasmon polari-tons, andHE11mode of an optical fiber. Furthermore, we explain how the recently reported phe-nomena of lateral optical force on chiral and achiral particles are caused by the transverse spin ofthe evanescent field and the spin-momentum locking phenomenon. Finally, we propose an experi-ment to identify the unique lateral forces arising from the transverse spin in the optical fiber andpoint to fundamental differences of the spin density from the well-known orbital angular momen-tum of light. Our work presents a unified view on spin-momentum locking and how it affectsoptical forces on chiral and achiral particles.
+*Evanescent electromagnetic waves possess spin-momentum locking, where the direction of propa-gation (momentum) is locked to the inherent polarization of the wave (transverse spin). We studythe optical forces arising from this universal phenomenon and show that the fundamental origin ofrecently reported non-trivial optical chiral forces is spin-momentum locking. For evanescentwaves, we show that the direction of energy flow, the direction of decay, and the direction of spinfollow a right hand rule for three different cases of total internal reflection, surface plasmon polari-tons, andHE11mode of an optical fiber. Furthermore, we explain how the recently reported phe-nomena of lateral optical force on chiral and achiral particles are caused by the transverse spin ofthe evanescent field and the spin-momentum locking phenomenon. Finally, we propose an experi-ment to identify the unique lateral forces arising from the transverse spin in the optical fiber andpoint to fundamental differences of the spin density from the well-known orbital angular momen-tum of light. Our work presents a unified view on spin-momentum locking and how it affectsoptical forces on chiral and achiral particles.*
 
 <p align="center">
     <img src="EField.PNG" alt="EField" width="500" height = "350" align = "middle"/>
@@ -52,7 +52,7 @@ Evanescent electromagnetic waves possess spin-momentum locking, where the direct
 <br><br>
 <sup>5</sup>K. Y. Bliokh, D. Smirnova, and F. Nori, “Quantum spin Hall effect of light,”Science348, 1448–1451 (2015).
 <br><br>
-<sup>6</sup>*A. Aiello, N. Lindlein, C. Marquardt, and G. Leuchs, “Transverse angular momentum and geometric spin hall effect of light,”Phys. Rev. Lett.103,100401 (2009).*
+<sup>6</sup>A. Aiello, N. Lindlein, C. Marquardt, and G. Leuchs, “Transverse angular momentum and geometric spin hall effect of light,”Phys. Rev. Lett.103,100401 (2009).
 <br><br>
 <sup>7</sup>F. J. Rodrguez-Fortuo, G. Marino, P. Ginzburg, D. OConnor, A. Martnez,G. A. Wurtz, and A. V. Zayats, “Near-field interference for the unidirectional excitation of electromagnetic guided modes,”Science340, 328–330(2013).
 <br><br>

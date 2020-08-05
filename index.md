@@ -83,17 +83,17 @@ Evanescent electromagnetic waves possess spin-momentum locking, where the direct
 <br><br>
 ²¹R. P. Cameron, S. M. Barnett, and A. M. Yao, “Discriminatory optical force for chiral molecules,”New J. Phys.16(1), 013020 (2014).
 <br><br>
-²²F. J. Rodrguez-Fortuo, N. Engheta, A. <sup>2</sup>MMartnez, and A. V. Zayats, “Lateralforces on circularly polarizable particles near a surface,”Nat. Commun.6,8799 (2015).
+²²F. J. Rodrguez-Fortuo, N. Engheta, A. <sup>2</sup>MMartnez, and A. V. Zayats, “Lateral forces on circularly polarizable particles near a surface,”Nat. Commun.6,8799 (2015).
 <br><br>
 ²³M. V. Berry, “Optical currents,”J. Opt. A11(9), 094001 (2009).
 <br><br>
-²⁴M. Neugebauer, T. Bauer, A. Aiello, and P. Banzer, “Measuring thetransverse spin density of light,”Phys.Rev.Lett.114, 063901(2015).
+²⁴M. Neugebauer, T. Bauer, A. Aiello, and P. Banzer, “Measuring the transverse spin density of light,”Phys.Rev.Lett.114, 063901(2015).
 <br><br>
-²⁵See supplementary material at http://dx.doi.org/10.1063/1.4941539 for fullexpressions and explanations.
+²⁵See supplementary material at http://dx.doi.org/10.1063/1.4941539 for full expressions and explanations.
 <br><br>
-²⁶T. Setl, A. Shevchenko, M. Kaivola, and A. T. Friberg, “Degree of polar-ization for optical near fields,”Phys. Rev. E66, 016615 (2002).  
+²⁶T. Setl, A. Shevchenko, M. Kaivola, and A. T. Friberg, “Degree of polarization for optical near fields,”Phys. Rev. E66, 016615 (2002).  
 <br><br>
-²⁷A. Y. Bekshaev and M. S. Soskin, “Transverse energy flows in vectorial fieldsof paraxial beams with singularities,”Opt. Commun.271, 332–348 (2007).
+²⁷A. Y. Bekshaev and M. S. Soskin, “Transverse energy flows in vectorial fields of paraxial beams with singularities,”Opt. Commun.271, 332–348 (2007).
 <br><br>
 ²⁸G. P. Agrawal,Fiber-Optic  Communication  Systems, 3rd ed. (Wiley-Interscience, New York, 2002).*
 

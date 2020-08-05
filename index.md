@@ -37,7 +37,7 @@ Evanescent electromagnetic waves possess spin-momentum locking, where the direct
 </p>
 <p align = "center">
     <em>Time averaged optical force in different directions plotted versus radius of the fiber.</em>
-</p¹>   
+</p>   
 
 ### References
 

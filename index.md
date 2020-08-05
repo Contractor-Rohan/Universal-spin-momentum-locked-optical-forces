@@ -37,11 +37,11 @@ Evanescent electromagnetic waves possess spin-momentum locking, where the direct
 </p>
 <p align = "center">
     <em>Time averaged optical force in different directions plotted versus radius of the fiber.</em>
-</p>   
+</p¹>   
 
 ### References
 
-*<sup>1</sup>K. Y. Bliokh, A. Y. Bekshaev, and F. Nori, “Extraordinary momentum and spin in evanescent waves,”Nat. Commun.5, 3300 (2014).
+*¹K. Y. Bliokh, A. Y. Bekshaev, and F. Nori, “Extraordinary momentum and spin in evanescent waves,”Nat. Commun.5, 3300 (2014).
 <br><br>
 <sup>2</sup>K. Y. Bliokh and F. Nori, “Transverse spin of a surface polariton,”Phys.Rev. A85, 061801 (2012).
 <br><br>

@@ -1039,10 +1039,6 @@ plt.show()
 For Figure 4,5 and 6:
 
 ```python
-
-```
-
-```python
 import numpy as np
 import scipy as sp
 import matplotlib.pyplot as plt

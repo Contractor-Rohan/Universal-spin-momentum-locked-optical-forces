@@ -8,35 +8,42 @@ Evanescent electromagnetic waves possess spin-momentum locking, where the direct
     <img src="EField.PNG" alt="EField" width="500" height = "350" align = "middle"/>
 </p>
 <p align = "center">
-    <em>Direction of transverse spin in evanescent fields for (a) total internal reflection</em>
+    <em>Figure 1: Direction of transverse spin in evanescent fields for (a) total internal reflection</em>
 </p>     
+
+<p align = "center">
+    <img src="SPP.PNG" alt="SPP" width="500" height = "350" align = "middle"/>
+</p>
+<p align = "center">
+    <em>Figure 2: Direction of transverse spin in evanescent fields for (b) surface plasmon polariton</em>
+</p>   
 
 <p align = "center">
     <img src="HEGeneral.PNG" alt="HEGeneral" width="500" height = "350" align = "middle"/>
 </p>
 <p align = "center">
-    <em>Direction of transverse spin in evanescent fields for (b) surface plasmon polariton</em>
-</p>    
+    <em>Figure 3: Direction of transverse spin in evanescent fields for  (c) optical fiber</em>
+</p>
 
 <p align = "center">
     <img src="force1.PNG" alt="force1" width="500" height = "350" align = "middle"/>
 </p>
 <p align = "center">
-    <em>Time averaged optical force in different directions plotted versus radius of the fiber.</em>
+    <em>Figure 4: Time averaged optical force in different directions plotted versus radius of the fiber.</em>
 </p>   
 
 <p align = "center">
     <img src="force1.PNG" alt="force1" width="500" height = "350" align = "middle"/>
 </p>
 <p align = "center">
-    <em>Time averaged optical force in different directions plotted versus radius of the fiber.</em>
+    <em>Figure 5: Time averaged optical force in different directions plotted versus radius of the fiber.</em>
 </p>   
 
 <p align = "center">
     <img src="force3.PNG" alt="force2" width="500" height = "350" align = "middle"/>
 </p>
 <p align = "center">
-    <em>Time averaged optical force in different directions plotted versus radius of the fiber.</em>
+    <em>Figure 6: Time averaged optical force in different directions plotted versus radius of the fiber.</em>
 </p>   
 
 ### References

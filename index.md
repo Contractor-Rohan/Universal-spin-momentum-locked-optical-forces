@@ -59,16 +59,16 @@ Evanescent electromagnetic waves possess spin-momentum locking, where the direct
 ⁵K. Y. Bliokh, D. Smirnova, and F. Nori, “Quantum spin Hall effect of light,”Science348, 1448–1451 (2015).
 <br><br>
 ⁶A. Aiello, N. Lindlein, C. Marquardt, and G. Leuchs, “Transverse angular momentum and geometric spin hall effect of light,”Phys. Rev. Lett.103,100401 (2009).
-<br><b⁹r>
+<br><br>
 ⁷F. J. Rodrguez-Fortuo, G. Marino, P. Ginzburg, D. OConnor, A. Martnez,G. A. Wurtz, and A. V. Zayats, “Near-field interference for the unidirectional excitation of electromagnetic guided modes,”Science340, 328–330(2013).
 <br><br>
 ⁸P. V. Kapitanova, P. Ginzburg, F. J. Rodrguez-Fortuo, D. S. Filonov, P.M. Voroshilov, P. A. Belov, A. N. Poddubny, Y. S. Kivshar, G. A. Wurtz,and A. V. Zayats, “Photonic spin Hall effect in hyperbolic metamaterials for  polarization-controlled  routing  of  subwavelength  modes,”Nat.Commun.5, 3226 (2014).
 <br><br>
-⁹R.¹Mitsch,  C.  Sayrin,  B.  Albrecht,  P.  Schneeweiss,  and  A.Rauschenbeutel, “Quantum state-controlled directional spontaneous emission of photons into a nanophotonic waveguide,”Nat. Commun.5, 5713(2014).
+⁹R.Mitsch,  C.  Sayrin,  B.  Albrecht,  P.  Schneeweiss,  and  A.Rauschenbeutel, “Quantum state-controlled directional spontaneous emission of photons into a nanophotonic waveguide,”Nat. Commun.5, 5713(2014).
 <br><br>
 ¹⁰J. Petersen, J. Volz, and A. Rauschenbeutel, “Chiral nanophotonic wave-guide interface based on spin-orbit interaction of light,”Science346,67–71 (2014).
 <br><br>
-¹¹B. le F¹eber, N. Rotenberg, and L. Kuipers, “Nanophotonic control of circular dipole emission,”Nat. Commun.6, 6695 (2015).
+¹¹B. le Feber, N. Rotenberg, and L. Kuipers, “Nanophotonic control of circular dipole emission,”Nat. Commun.6, 6695 (2015).
 <br><br>
 ¹²I. Sllner, S. Mahmoodian, S. L. Hansen, L. Midolo, A. Javadi, G. Kiransk,T. Pregnolato, H. El-Ella, E. H. Lee, J. D. Song, S. Stobbe, and P. Lodahl,“Deterministic photonemitter coupling in chiral photonic circuits,”Nat.Nanotechnol.10, 775–778 (2015).
 <br><br>

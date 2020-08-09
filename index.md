@@ -49,7 +49,6 @@ Evanescent electromagnetic waves possess spin-momentum locking, where the direct
 ### References
 
 *¹Farid Kalhor,Thomas Thundat,and Zubin Jacob, "Universal spin-momentum locked optical forces" Appl. Phys. Lett. 108, 061102 (2016); https://doi.org/10.1063/1.4941539*
-https://aip.scitation.org/doi/10.1063/1.4941539 
 
 ### Python Code:
 
